@@ -1,0 +1,12 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.Data\bin\Debug\Preventiva.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.Data\bin\Debug\Preventiva.Infra.Data.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.Data\bin\Debug\Preventiva.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.Data\bin\Debug\Preventiva.Infra.Data.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.Data\obj\Debug\Preventiva.Infra.Data.pdb

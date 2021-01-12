@@ -1,0 +1,10 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Infra.Shared\bin\Debug\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Infra.Shared\bin\Debug\Infra.Shared.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Infra.Shared\obj\Debug\Infra.Shared.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Infra.Shared\obj\Debug\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Infra.Shared\obj\Debug\Infra.Shared.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Infra.Shared\bin\Debug\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Infra.Shared\bin\Debug\Infra.Shared.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Infra.Shared\obj\Debug\Infra.Shared.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Infra.Shared\obj\Debug\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Infra.Shared\obj\Debug\Infra.Shared.pdb

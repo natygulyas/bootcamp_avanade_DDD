@@ -1,0 +1,12 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.deps.json
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfoInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.AssemblyInfo.cs
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.csproj.CopyComplete
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Infra.Shared\obj\Debug\netcoreapp3.1\Infra.Shared.pdb

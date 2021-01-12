@@ -1,0 +1,16 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.deps.json
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Service.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\bin\Debug\netcoreapp3.1\Infra.Shared.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfoInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.AssemblyInfo.cs
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.csproj.CopyComplete
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Service\obj\Debug\netcoreapp3.1\Aurora.Service.pdb

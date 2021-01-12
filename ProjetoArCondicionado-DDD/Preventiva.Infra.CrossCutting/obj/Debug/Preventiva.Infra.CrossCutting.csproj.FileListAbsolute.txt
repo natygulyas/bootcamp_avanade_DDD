@@ -1,0 +1,12 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.CrossCutting\bin\Debug\Preventiva.Infra.CrossCutting.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.CrossCutting\bin\Debug\Preventiva.Infra.CrossCutting.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.CrossCutting\bin\Debug\Preventiva.Infra.CrossCutting.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.CrossCutting\bin\Debug\Preventiva.Infra.CrossCutting.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Infra.CrossCutting\obj\Debug\Preventiva.Infra.CrossCutting.pdb

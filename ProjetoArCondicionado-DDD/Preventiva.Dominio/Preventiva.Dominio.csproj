@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DAEFFB54-3275-4B80-AF95-EAFC5DB4DD24}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Preventiva.Dominio</RootNamespace>
+    <AssemblyName>Preventiva.Dominio</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2.1 Entidades\BaseID.cs" />
+    <Compile Include="2.1 Entidades\Cliente.cs" />
+    <Compile Include="2.1 Entidades\ClientePossuiContEquipRotTec.cs" />
+    <Compile Include="2.1 Entidades\Contrato.cs" />
+    <Compile Include="2.1 Entidades\Equipamentos.cs" />
+    <Compile Include="2.1 Entidades\EquipTecnica.cs" />
+    <Compile Include="2.1 Entidades\RotinasAtividades.cs" />
+    <Compile Include="2.1 Entidades\Usuario.cs" />
+    <Compile Include="2.2 Interfaces\IRepositorioEquipamentos.cs" />
+    <Compile Include="2.2 Interfaces\IRepositorioClientes.cs" />
+    <Compile Include="2.2 Interfaces\IRepositorioRotinasAtividades.cs" />
+    <Compile Include="2.2 Interfaces\IRepositoriosEquipTecnicas.cs" />
+    <Compile Include="2.2 Interfaces\IRepositorioUsuario.cs" />
+    <Compile Include="2.2 Interfaces\IServicoUsuario.cs" />
+    <Compile Include="2.3 Modelos\AtualizarUsuarioModelo.cs" />
+    <Compile Include="2.3 Modelos\CriarUsuarioModel.cs" />
+    <Compile Include="2.3 Modelos\UsuarioModelo.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Cliente\EMail.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Cliente\Endereco.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Cliente\Nome.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Cliente\PessoaContato.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Cliente\Telefone.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\DataFinal.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\DataInicio.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\EMailContrato.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\NomeContato.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\PeriodicidadeContratada.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\PeriodicidadePagamento.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\TelefoneContrato.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Contrato\ValorTotal.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Equipamentos\Ambiente.cs" />
+    <Compile Include="2.4 ObjetosDeValor\Equipamentos\Andar.cs" />
+    <Compile Include="2.5 Agregados\Cliente\CNPJ.cs" />
+    <Compile Include="2.5 Agregados\Cliente\CPF.cs" />
+    <Compile Include="2.5 Agregados\Contrato\Bimestral.cs" />
+    <Compile Include="2.5 Agregados\Contrato\Esporadico.cs" />
+    <Compile Include="2.5 Agregados\Contrato\Mensal.cs" />
+    <Compile Include="2.5 Agregados\Contrato\Semestral.cs" />
+    <Compile Include="2.5 Agregados\Contrato\Trimestral.cs" />
+    <Compile Include="2.5 Agregados\Equipamentos\Condensadora.cs" />
+    <Compile Include="2.5 Agregados\Equipamentos\Evaporadora.cs" />
+    <Compile Include="2.5 Agregados\EquipeTecnica\Ajudante.cs" />
+    <Compile Include="2.5 Agregados\EquipeTecnica\Supervisor.cs" />
+    <Compile Include="2.5 Agregados\EquipeTecnica\Tecnico.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Cassete\CasseteA.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Cassete\CasseteM.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Cassete\CasseteS.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Cassete\CasseteT.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Geral\Geralesporadica.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Split\SplitA.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Split\SplitM.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Split\SplitS.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\Split\SplitT.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\VRV\VrvA.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\VRV\VrvM.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\VRV\VrvS.cs" />
+    <Compile Include="2.5 Agregados\Rotinas\VRV\VrvT.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

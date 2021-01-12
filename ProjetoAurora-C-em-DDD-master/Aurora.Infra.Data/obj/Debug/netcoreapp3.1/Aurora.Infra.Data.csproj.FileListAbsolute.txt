@@ -1,0 +1,15 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.deps.json
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.json
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.runtimeconfig.dev.json
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\bin\Debug\netcoreapp3.1\Aurora.Domain.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfoInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.AssemblyInfo.cs
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.csproj.CopyComplete
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\projeto-C-em-DDD-master\Aurora.Infra.Data\obj\Debug\netcoreapp3.1\Aurora.Infra.Data.genruntimeconfig.cache

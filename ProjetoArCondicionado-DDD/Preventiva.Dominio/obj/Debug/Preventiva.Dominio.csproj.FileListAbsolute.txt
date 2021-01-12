@@ -1,0 +1,12 @@
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Dominio\bin\Debug\Preventiva.Dominio.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Dominio\bin\Debug\Preventiva.Dominio.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\ArCondicionado\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Dominio\bin\Debug\Preventiva.Dominio.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Dominio\bin\Debug\Preventiva.Dominio.pdb
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.csprojAssemblyReference.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.csproj.CoreCompileInputs.cache
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.dll
+D:\ESTUDOS\APRENDENDO A PROGRAMAR\workspace\Projetos Bootcamp Decola Dev Avanade e Dio\bootcamp_avanade_DDD\ProjetoArCondicionado-DDD\Preventiva.Dominio\obj\Debug\Preventiva.Dominio.pdb

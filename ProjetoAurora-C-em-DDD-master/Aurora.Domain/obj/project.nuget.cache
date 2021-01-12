@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nY2XuSoKqQ8B7hT1lNXFmOUdxEklRfWT8dYQGkD1UuVFG3kom3vFpvbPr30qSzfKodldZMzk+WgrTkBgKPsv+A==",
+  "success": true,
+  "projectFilePath": "D:\\ESTUDOS\\APRENDENDO A PROGRAMAR\\workspace\\Projetos Bootcamp Decola Dev Avanade e Dio\\bootcamp_avanade_DDD\\ProjetoAurora-C-em-DDD-master\\Aurora.Domain\\Aurora.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natas\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
